@@ -40,7 +40,7 @@ def communicate_to_server(client):
     password = input("Enter Password: ")
     if username != "" and password != "":
         #send username with password
-        client.sendall(f"{username}|{password}".encode("UTF-8"))
+        client.sendall(f"{username}*****{password}".encode("UTF-8"))
     else:
         print("username or password can't be empty!")
         exit(0)

@@ -3,3 +3,36 @@
 2025-03-17 15:13:33.747638 | adi ~ anyone here?
 2025-03-17 15:13:49.012649 | SERVER ~ adik signed up and has entered the chat
 2025-03-17 15:13:51.403670 | adik ~ me!
+2025-03-17 15:17:29.923290 | SERVER ~ adi has entered the chat
+2025-03-17 15:17:37.802802 | adi ~ in git now!!
+2025-03-17 15:17:41.010682 | adi ~ byeeeee
+2025-03-17 15:55:04.767852 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 15:56:38.421665 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:15:35.463950 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:16:17.727514 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:17:06.903522 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:18:44.743246 | SERVER ~ ad signed up and has entered the chat
+2025-03-17 16:19:15.038975 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:19:17.109578 | adi ~ hellooo
+2025-03-17 16:19:21.917606 | adi ~ working maybee??
+2025-03-17 16:19:30.477963 | SERVER ~ tirosh signed up and has entered the chat
+2025-03-17 16:19:33.062002 | tirosh ~ omg??
+2025-03-17 16:23:44.487033 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:23:48.005229 | adi ~ good!!
+2025-03-17 16:23:49.605570 | adi ~ amen
+2025-03-17 16:24:05.461406 | SERVER ~ tiroshkush signed up and has entered the chat
+2025-03-17 16:24:32.242468 | SERVER ~ dorina signed up and has entered the chat
+2025-03-17 16:24:46.980558 | SERVER ~ omer signed up and has entered the chat
+2025-03-17 16:25:40.895257 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:26:16.003162 | SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:26:18.533748 | adi ~ nooo
+2025-03-17 16:34:04.508135 ***** SERVER ~ adi signed up and has entered the chat
+2025-03-17 16:34:07.851249 ***** adi ~ yessss
+2025-03-17 16:34:25.259359 ***** SERVER ~ tirosh signed up and has entered the chat
+2025-03-17 16:37:18.650903 | SERVER ~ dorina signed up and has entered the chat
+2025-03-17 16:37:44.482165 | SERVER ~ dorina signed up and has entered the chat
+2025-03-17 16:38:40.548341 | SERVER ~ dorina signed up and has entered the chat
+2025-03-17 16:38:43.402925 | dorina ~ hopaaa
+2025-03-17 16:38:48.898585 | dorina ~ byeeee
+2025-03-17 16:46:28.331813 | SERVER ~ dorin signed up and has entered the chat
+2025-03-17 17:13:01.118782 | SERVER ~ dorin has entered the chat
