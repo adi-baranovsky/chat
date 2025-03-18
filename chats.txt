@@ -36,3 +36,31 @@
 2025-03-17 16:38:48.898585 | dorina ~ byeeee
 2025-03-17 16:46:28.331813 | SERVER ~ dorin signed up and has entered the chat
 2025-03-17 17:13:01.118782 | SERVER ~ dorin has entered the chat
+2025-03-18 12:12:24.196753 | SERVER ~ dorin has entered the chat
+2025-03-18 12:12:26.136875 | dorin ~ hello
+2025-03-18 12:12:28.080882 | dorin ~ omg???
+2025-03-18 14:20:03.072986 | SERVER ~ dorin has entered the chat
+2025-03-18 14:20:04.792394 | dorin ~ olaaa
+2025-03-18 14:20:06.567944 | dorin ~ heyyy
+2025-03-18 14:20:08.471931 | dorin ~ byeeee
+2025-03-18 14:21:53.616863 | SERVER ~ adi has entered the chat
+2025-03-18 14:21:55.751385 | adi ~ heyy
+2025-03-18 14:21:57.567689 | adi ~ hopa
+2025-03-18 14:22:58.312222 | SERVER ~ adi has entered the chat
+2025-03-18 14:23:00.262912 | adi ~ heyyy
+2025-03-18 14:23:01.806783 | adi ~ byeee
+2025-03-18 14:24:48.999498 | SERVER ~ adi has entered the chat
+2025-03-18 14:24:51.310201 | adi ~ one moree
+2025-03-18 14:26:01.134806 | SERVER ~ adi has entered the chat
+2025-03-18 14:26:02.533670 | adi ~ lala
+2025-03-18 14:27:10.341864 | SERVER ~ adi has entered the chat
+2025-03-18 14:27:12.620885 | adi ~ heyyy
+2025-03-18 14:27:14.477100 | adi ~ byeeee
+2025-03-18 14:29:11.768988 | SERVER ~ adi has entered the chat
+2025-03-18 14:29:16.996726 | adi ~ babayeeeee
+2025-03-18 14:29:45.526107 | SERVER ~ adi has entered the chat
+2025-03-18 14:29:47.476342 | adi ~ oneeee
+2025-03-18 14:30:56.165867 | SERVER ~ adi has entered the chat
+2025-03-18 14:30:57.668099 | adi ~ yay
+2025-03-18 14:32:26.389162 | SERVER ~ adi has entered the chat
+2025-03-18 14:32:29.643707 | adi ~ chilling
