@@ -3,23 +3,19 @@ import threading
 import datetime
 import time
 import ssl
-
-#varialbes
-host = "127.0.0.1"
-port = 8000
-close_event = threading.Event()  # Event to signal when to close the connection
+import config
 
 #listening to the server
-def listen_for_msg_from_server(client):
+def listen_for_msg_from_server(client: socket):
     #while connected
-    while not close_event.is_set():
+    while not config.close_event.is_set():
         message = client.recv(2048).decode("UTF-8")
         #if message is empty
         if message != "":
             #if the credentials are wrong
             if message == "BAD": 
                 print("Bad Credentials, Ended Connection")
-                close_event.set()  #signal to close the connection
+                config.close_event.set()  #signal to close the connection
                 client.close()
                 break  #exit the function to stop receiving further messages
             else:
@@ -28,21 +24,21 @@ def listen_for_msg_from_server(client):
                 print(f"{datetime.datetime.now()} | {username} ~ {content}")
         else:
             print("Ending Connection... ")
-            close_event.set()  #signal to close the connection
+            config.close_event.set()  #signal to close the connection
             client.close()
             break  #exit the function to stop receiving further messages
 
-def send_msg_to_server(client):
-    while not close_event.is_set():
+def send_msg_to_server(client: socket):
+    while not config.close_event.is_set():
         time.sleep(0.05)
-        if close_event.is_set(): break
+        if config.close_event.is_set(): break
         message = input("Message: ")
         if message != "":
             client.sendall(message.encode("UTF-8"))
         else: 
             print("Message is empty")
 
-def communicate_to_server(client):
+def communicate_to_server(client: socket):
     username = input("Enter username: ")
     password = input("Enter Password: ")
     if username != "" and password != "":
@@ -72,10 +68,10 @@ def main():
 
     #try to connect to the server
     try: 
-        secure_socket.connect((host, port))
+        secure_socket.connect((config.host, config.port))
         print("Connected!")
 
-    except: print(f"Unable to bind to host {host} in port {port}")
+    except: print(f"Unable to bind to host {config.host} in port {config.port}")
     
     communicate_to_server(secure_socket)
 
